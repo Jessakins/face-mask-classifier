@@ -1,1 +1,1 @@
-# face-mask-classifier
+# Face Mask Classifier
